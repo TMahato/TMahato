@@ -15,8 +15,3 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=TMahato&theme=redical)
 
-![snake](https://raw.githubusercontent.com/TMahato/TMahato/output/github-contribution-grid-snake.svg)
-
-<br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=TMahato" alt="TMahato"/> </p>  </p>
-<br>
