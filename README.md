@@ -5,6 +5,6 @@
 
 ---
 
-![Tanmay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TMahato&theme=rogue&hide_border=true&area=true)
+<!-- ![Tanmay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TMahato&theme=rogue&hide_border=true&area=true)
 
----
+--- -->
