@@ -12,5 +12,5 @@
 |![](https://github-readme-stats.vercel.app/api?username=TMahato&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000314)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=TMahato&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=TMahato&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=TMahato&theme=dracula)
 
