@@ -9,7 +9,7 @@
 
 --- -->
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TMahato-4&theme=nightowl" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TMahato&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" />
 </p>
 
 |![](https://github-readme-stats.vercel.app/api?username=TMahato&&show_icons=true&title_color=00f0d0&icon_color=bb2acf&text_color=daf7dc&bg_color=000314)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=TMahato&layout=compact&theme=tokyonight&langs_count=10)|
