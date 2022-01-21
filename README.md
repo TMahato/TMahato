@@ -9,12 +9,12 @@
 
 --- -->
 
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhikumari-4&theme=cyan" />
+</p>
+
 |![](https://github-readme-stats.vercel.app/api?username=TMahato&&show_icons=true&title_color=00f0d0&icon_color=bb2acf&text_color=daf7dc&bg_color=000314)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=TMahato&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhikumari-4&theme=blue" />
-</p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=TMahato&theme=react-dark)
 
