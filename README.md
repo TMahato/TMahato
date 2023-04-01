@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+## [my portfolio](https://tmahato.github.io/portfolio-2.0/)
 <!-- 
 
 [![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMahato&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/TMahato)
